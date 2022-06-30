@@ -1,6 +1,13 @@
-# callmed-suse
-Repositorio oficial de integración de farmacias con Callmed SUSE
+# callmed
+Repositorio oficial de integración de con Callmed
+
+Callmed SUSE - Farmacias
+
+https://github.com/Tandotek/callmed-suse/wiki/Callmed-SUSE---Integraci%C3%B3n-con-Farmacias
 
 
-# ejemplos de consumo del servicio web en diferentes plataformas
+Callmed Agenda 
+
+
+
 
